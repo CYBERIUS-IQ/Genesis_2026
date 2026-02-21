@@ -1,0 +1,6 @@
+Ing. Sistemas
+21/02/26
+A horas antes de aterrizar el sistema de navegacion empezo a detectar objetos no identificados por el radar, despues el equipo encargado se dedico a desarrollar una solucion para esta situacion nos dimos cuenta que el software de navegacion estaba confuendiendo las estrellas con basura espacial asi que decidimos modificarlo para que y sobre reparar algunos daños colaterales de por medio tardamos aproximadamente 6 horas en completar el trabajo despues de una pequeña desviacion a causa de estos fallos, a 2 horas del punto de destino Mario fallecio y se dejo su cuerpo en el vacio.
+
+Estado:Activo
+Siguientes reportes programados en 16:00 Hrs.
