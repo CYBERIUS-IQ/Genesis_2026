@@ -1,5 +1,7 @@
 # 🚀 Misión "Génesis 2026": Colonización de Proxima B
 
+
+
 Bienvenido, Especialista. Si estás leyendo esto, has sido seleccionado para formar parte del equipo de avanzada en la colonización del exoplaneta Proxima B. Nuestra supervivencia depende de tu capacidad para colaborar y utilizar **Git** sin errores.
 
 ## 📖 El Escenario
